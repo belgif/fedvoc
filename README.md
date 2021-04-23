@@ -1,4 +1,4 @@
-A functional working group composed of BOSA, eHealth, CBSS, MinFin and Smals worked together to standardize the most common business ontologies (Person, Organization, Location, Temporal, Generic, etc). 
+A functional working group composed of BOSA, eHealth, CBSS, FPS Finance and Smals worked together to standardize the most common business ontologies (Person, Organization, Location, Temporal, Generic, etc). 
 
 The end result is a published vocabulary list of classes and properties, with their URI's, accepted by the Federal government as standard vocabulary. 
 
