@@ -34,5 +34,3 @@ The **"Government institutions" sheet** provides the common names for Belgian Go
 More advanced, the **"Datamodels" sheet** shows the relationships between vocabulary entries. It can be read as: 
 entry ‘SubjectName’ has a relation of type ‘predicate’ with entry ‘ObjectName’
 For instance: ‘houseNumber’ ‘domain’ ‘BelgianAddress’ means that instances with the property ‘houseNumber’ are of type ‘BelgianAddress’.
-
-Other sheets contain the source data from which the consolidated sheets with the standardized or draft vocabularies are generated. They are only meant to input the vocabularies into the spreadsheet rather than for reading; their use is explained in the first "Intro" sheet.
