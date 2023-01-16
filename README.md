@@ -17,7 +17,7 @@ The Federal Vocabularies (FedVoc) describe semantics in domains commonly used by
 If you can't find a concept that's commonly used by Belgian government institutions, you may open an issue to request the concept to be added.
 
 ## How to use ?
-How to read the [FedVoc Excel file](https://github.com/belgif/fedvoc/blob/master/FederalServicePlatform-Vocabularies.xlsx):
+How to read the [FedVoc Excel file](https://github.com/belgif/fedvoc/raw/master/FederalServicePlatform-Vocabularies.xlsx):
 
 In the **"Standard" sheet**, you find the vocabulary entries accepted by the Federal government as standard vocabulary. 
 -	The column ‘Ontology’ gives the different domains covered by the vocabulary.To find entries more easily, you can filter on ‘Ontology’ or do a full search (Ctrl+F).
