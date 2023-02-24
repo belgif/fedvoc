@@ -31,6 +31,10 @@ In the **"Draft" sheet**, you find the vocabulary entries that are still a work 
 
 The **"Government institutions" sheet** provides the common names for Belgian Government institutions (code = abbreviation, name = full name, status = Draft/Standard)
 
-More advanced, the **"Datamodels" sheet** shows the relationships between vocabulary entries. It can be read as: 
-entry ‘SubjectName’ has a relation of type ‘predicate’ with entry ‘ObjectName’
-For instance: ‘houseNumber’ ‘domain’ ‘BelgianAddress’ means that instances with the property ‘houseNumber’ are of type ‘BelgianAddress’.
+More advanced, the **"Datamodels" sheet** shows the relationships between vocabulary entries. It can be read as:
+
+`<SubjectName>` has a relation of type `<predicate>` with `<ObjectName>`
+
+For instance:
+* `houseNumber` [`domain`](https://www.w3.org/TR/rdf-schema/#ch_domain) `BelgianAddress` means that instances with the property `houseNumber` are of type ‘BelgianAddress’
+* `Marriage` [`subClassOf`](https://www.w3.org/TR/rdf-schema/#ch_subclassof) `PersonRelation` means that all instances of class `Marriage` are also instances of `PersonRelation`
