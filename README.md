@@ -36,5 +36,5 @@ More advanced, the **"Datamodels" sheet** shows the relationships between vocabu
 `<SubjectName>` has a relation of type `<predicate>` with `<ObjectName>`
 
 For instance:
-* `houseNumber` [`domain`](https://www.w3.org/TR/rdf-schema/#ch_domain) `BelgianAddress` means that instances with the property `houseNumber` are of type ‘BelgianAddress’
+* `houseNumber` [`domain`](https://www.w3.org/TR/rdf-schema/#ch_domain) `BelgianAddress` means that if an instance has a property `houseNumber`, it is of type  ‘BelgianAddress’
 * `Marriage` [`subClassOf`](https://www.w3.org/TR/rdf-schema/#ch_subclassof) `PersonRelation` means that all instances of class `Marriage` are also instances of `PersonRelation`
